@@ -4,6 +4,8 @@ Bem-vindo ao repositório do meu Projeto TecBlog! Este é o repositório do proj
 
 ## Preview
 
+Ao terminar esse projeto a página deverá ser semelhante a esta imagem:
+
 ![imagem do projeto](/imgs/projeto.png)
 
 ## Instruções
