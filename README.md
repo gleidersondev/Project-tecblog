@@ -3,3 +3,22 @@
 Bem-vindo ao repositório do meu Projeto TecBlog! Este é o repositório do projeto TecBlog, onde aplico meus conhecimentos em HTML e CSS básicos para criar uma página web simples, semelhante a um blog. O objetivo é praticar e consolidar os conceitos aprendidos até o momento.
 
 ## Preview
+
+![imagem do projeto](/imgs/projeto.png)
+
+## Instruções
+
+Caso queira realizar o projeto, basta clonar este repositório em seu ambiente de desenvolvimento local usando o comando git clone: 
+
+* `git clone git@github.com:gleidersondev/Project-tecblog.git`.
+
+## Recursos Adicionais
+
+Se precisar revisitar conceitos de HTML e CSS, recomendo seguintes recursos:
+
++ [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
++ [W3Schools CSS Tutorial](https://www.w3schools.com/css/)
+
+
+*Projeto proposto por Jamilton Damasceno - Curso Desenvolvimento Web Completo Udemy.*
+
