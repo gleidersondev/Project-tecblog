@@ -44,3 +44,16 @@ h1 {
   background-color: #fff;
   color: #f7b600;
 }
+
+#main-content {
+
+}
+
+#post-area {
+  width: 60%;
+}
+
+#recent-posts-area {
+  width: 30%;
+
+}
