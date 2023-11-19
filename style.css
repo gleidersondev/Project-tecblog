@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 1em;
+  background-color: #e6e6e6;
+  font-family: 'Fira Sans', sans-serif;
+}
