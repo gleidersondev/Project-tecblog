@@ -8,3 +8,43 @@ body {
   background-color: #e6e6e6;
   font-family: 'Fira Sans', sans-serif;
 }
+
+#header-content {
+  background-color: #f7b600;
+  text-align: center;
+  padding: 12px;
+}
+
+h1 {
+  color: #4e4e4e;
+  font-size: 2.5em;
+  padding: 12px;
+}
+
+#word-blog {
+  color: #fff;
+}
+
+#header-lists {
+  padding: 12px;
+}
+
+#header-lists li {
+  display: inline-block;
+} 
+
+#header-lists a {
+  text-decoration: none;
+  padding: 12px 8px;
+  font-weight: 900;
+  color: #fff;
+}
+
+#header-lists a:hover {
+  background-color: #fff;
+  color: #f7b600;
+}
+
+/* .header-links {
+  
+} */
