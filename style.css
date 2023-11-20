@@ -51,9 +51,23 @@ h1 {
 
 #post-area {
   width: 60%;
+  display: inline-block;
+}
+
+.post {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+  flex-direction: column;
+  background-color: white;
+  width: 640px;
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 #recent-posts-area {
   width: 30%;
-
+  display: inline-block;
+  vertical-align: top;
 }
