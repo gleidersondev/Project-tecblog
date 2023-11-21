@@ -66,7 +66,7 @@ h1 {
   width: 30%;
   display: inline-block;
   vertical-align: top;
-  font-size: 0.8em;
+  font-size: 0.9em;
 }
 
 .aside-body-content {
@@ -82,10 +82,24 @@ h1 {
   margin-bottom: 2px;
 }
 
-.aside-lists {
+/* .aside-lists {
   text-decoration: none !important;
-}
+} */
 
 .aside-lists ul {
   list-style: none;
+  font-weight: 600
+}
+
+.links {
+  color: #f7b600;
+  text-decoration: none;
+}
+
+#post-area a:hover {
+  text-decoration: underline;
+}
+
+#aside-content a:hover {
+  text-decoration: underline;
 }
