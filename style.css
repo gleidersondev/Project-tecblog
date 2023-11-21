@@ -72,12 +72,20 @@ h1 {
 .aside-body-content {
   background-color: white;
   margin-bottom: 20px;
+  padding: 20px;
 }
 
 .aside-title-style {
   background-color: #CCC;
   color: #565656;
   padding: 5px;
+  margin-bottom: 2px;
 }
 
+.aside-lists {
+  text-decoration: none !important;
+}
 
+.aside-lists ul {
+  list-style: none;
+}
