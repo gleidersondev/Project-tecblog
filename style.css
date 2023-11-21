@@ -45,10 +45,6 @@ h1 {
   color: #f7b600;
 }
 
-#main-content {
-
-}
-
 #post-area {
   width: 60%;
   display: inline-block;
@@ -66,8 +62,22 @@ h1 {
   margin-bottom: 20px;
 }
 
-#recent-posts-area {
+#aside-recent-posts {
   width: 30%;
   display: inline-block;
   vertical-align: top;
+  font-size: 0.8em;
 }
+
+.aside-body-content {
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+.aside-title-style {
+  background-color: #CCC;
+  color: #565656;
+  padding: 5px;
+}
+
+
