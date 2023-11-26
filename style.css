@@ -18,7 +18,7 @@ body {
 .center {
   display:flex;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
 }
 
 #header-content h1 {
@@ -52,7 +52,50 @@ body {
   background-color: #fff;
 }
 
+#post-area {
+  width: 60%;
+}
 
+.post {
+  width: 640px;
+  margin: 20px 0;
+  background-color: white;
+  padding: 20px;
+}
+
+.post-title {
+  padding-bottom: 15px;
+}
+
+.post-title h2 {
+  color: #f7b600;
+}
+
+.post-title p {
+  font-size: 0.8em;
+}
+
+.post-content p {
+  padding-top: 15px;
+}
+
+.links {
+  color: #f7b600;
+  text-decoration: none;
+}
+
+.post strong {
+  display: inline-flex;
+  padding-top: 6px;
+}
+
+.links:hover {
+  text-decoration: underline;
+}
+
+#aside-content {
+  width: 25%;
+}
 
 
 
